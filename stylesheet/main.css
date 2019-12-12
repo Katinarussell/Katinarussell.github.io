@@ -6857,7 +6857,9 @@ h1, h2, h3, h4 {
     width: 850px;
     max-width: 100%; }
     .main-frame .content-holder h3 {
-      margin: 20px 0px; }
+/*      margin: 40px 0px; 
+*/      margin-top: 40px;
+        margin-bottom: 20px; }
       .main-frame .content-holder h3::after {
        /* content: ' ';
         display: block;
