@@ -781,7 +781,7 @@ pre {
   .col-md {
     flex-basis: 0;
     flex-grow: 1;
-    max-width: 97%; }
+    max-width: 100%; }
 
   .col-md-auto {
     flex: 0 0 auto;
